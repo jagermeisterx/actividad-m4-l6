@@ -1,0 +1,4 @@
+Línea 1: Bienvenido al sistema educacional
+Línea 2: Alumno: Juan Pérez
+Línea 3: Asignatura: Matemáticas
+Línea 4: Nota agregada con append
